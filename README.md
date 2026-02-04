@@ -42,10 +42,10 @@ Probabilistic classificatio
 	•	NumPy
 	•	Matplotlib / Seaborn
 	•	Scikit-learn
-	•	Jupyter Notebook
-git clone https://github.com/Samitraj-ux/loan-approval-ml.git
-cd loan-approval-ml
-Run the Notebook / Script:jupyter notebook
+	•	Jupyter Notebook.
+
+
+
 📊 Model Evaluation
 
 We evaluate models using:
